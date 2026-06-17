@@ -571,7 +571,7 @@ T.G. Uttrakhand 249201</a>
                   </li><!-- /.nav-item -->
 
 <li class="nav-item">
-                    <a href="https://render.jotform.com/bhartiyagramotthan/exposure-visit-registration-form" target="_blank" class="nav-item-link"> Exposure Visit Program</a>
+                    <a href="Exposure-Visit.html" class="nav-item-link"> Exposure Visit Program</a>
                   </li><!-- /.nav-item -->
 
 
@@ -613,7 +613,7 @@ T.G. Uttrakhand 249201</a>
                           <h2 class="nav-title">Certificates </h2>
                           <ul class="nav flex-column">
                             <li class="nav-item">
-                              <a class="nav-item-link" href="assets/Bhartiya-Gramodhan-Sanstha-Society-Renewal-2025.pdf" target="_blank">Registration Certificate</a>
+                              <a class="nav-item-link" href="assets/PDF-Documents/BGS-Society-Renewal-2019-2024.pdf" target="_blank">Registration Certificate</a>
                             </li>
                             <li class="nav-item">
                               <a class="nav-item-link" href="assets/PDF-Documents/FCRA_Renewal-Certificate_2022.pdf" target="_blank">FCRA Approval</a>
@@ -726,7 +726,7 @@ T.G. Uttrakhand 249201</a>
             <button class="close-mobile-menu d-block d-lg-none"><i class="fas fa-times"></i></button>
           </div><!-- /.navbar-collapse -->
           <div class="d-none d-xl-flex align-items-center position-relative ml-30">
-       <a href="https://render.jotform.com/bhartiyagramotthan/exposure-visit-registration-form" target="_blank" class="btn btn-primary btn-contact">
+       <a href="Exposure-Visit.html" class="btn btn-primary btn-contact">
               Exposure Visit
             </a>  <span> &nbsp;&nbsp;&nbsp;&nbsp; </span>
 
@@ -955,13 +955,12 @@ T.G. Uttrakhand 249201</a>
           <div class="col-12 col-lg-4">
             <div class="fancybox-item">
               <div class="fancybox-body">
-
-                <h4 class="fancybox-title">Join Exposure Visit </h4>
-                <p class="fancybox-desc">It is an honor to host such an engaged group, and we are eager to share the work we do, the challenges we face, and the impact we strive to create within our community. We hope this visit provides you with meaningful insights and sparks collaborative ideas.
+                <h4 class="fancybox-title">Join as a Volunteer </h4>
+                <p class="fancybox-desc">Be a part of our organization and contribute your time, skills, and compassion towards a meaningful social cause. Whether you are a student, professional, homemaker, or retiree – your support can help us reach more lives and strengthen our mission.
                 </p>
-                <a href="https://render.jotform.com/bhartiyagramotthan/exposure-visit-registration-form" target="_blank" class="btn btn-secondary btn-outlined">
+                <a href="Volunteer-Enrollment.html" class="btn btn-secondary btn-outlined">
                   <i class="icon-arrow-right"></i>
-                  <span>Get Appointment </span>
+                  <span>Get Appointment Form</span>
                 </a>
                 <div class="fancybox-icon">
                  <i class="icon-gloves"></i>
@@ -969,8 +968,6 @@ T.G. Uttrakhand 249201</a>
               </div><!-- /.fancybox-body -->
             </div><!-- /.fancybox-item -->
           </div><!-- /.col-lg-4 -->
-
-
           <!-- fancybox item #2 -->
           <div class="col-12 col-lg-4">
             <div class="fancybox-item">
@@ -988,8 +985,6 @@ T.G. Uttrakhand 249201</a>
               </div><!-- /.fancybox-body -->
             </div><!-- /.fancybox-item -->
           </div><!-- /.col-lg-4 -->
-
-
           <!-- fancybox item #3 -->
           <div class="col-12 col-lg-4">
             <div class="fancybox-item">
@@ -1011,7 +1006,9 @@ T.G. Uttrakhand 249201</a>
         </div><!-- /.row -->
         <div class="row align-items-center">
           <div class="col-12 col-xl-6 offset-xl-3 px-xl-5 text-center">
-   
+            <p class="px-xl-4 fw-bold mb-0">Bhartiya Gramotthan Sanstha is dedicated to providing sustainable livelihood opportunities and an improved quality of life to underprivileged families. We focus on addressing critical issues such as health, education, water, agriculture, and environment.
+              <a href="#" class="color-primary underlined-text-secondary">Backed by a highly talented team with years of valuable experience, our mission is to ensure the holistic development of the Garhwal hills community,</a>
+            </p>
           </div><!-- /.col-xl-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -1020,81 +1017,84 @@ T.G. Uttrakhand 249201</a>
 
 
 
-<br><br><br>
 
 
 
 
-    <section class="projects-section">        <h2 class="title">"United Efforts, Shared Progress: The Spirit of BGS."</h2>
-        <p class="px-xl-4 fw-bold mb-0">"At the heart of every initiative led by Bhartiya Gramodhan Sanstha lies the power of unity. Through our recent series of activities, we have witnessed firsthand what is possible when dedicated effort meets community passion. <a href="#" class="color-primary underlined-text-secondary">Together with the people we serve, we are not just completing projects; we are building a foundation of self-reliance, empowerment, and lasting progress for our region."</a>
-            </p>
 
-<br><br>
-
+    <section class="projects-section">
+        <p class="subtitle">Showcasing Our Impactful Projects & Programmes</p>
+        <h2 class="title">Projects That Create Real Impact</h2>
 
         <div class="nav-arrow arrow-left" onclick="scrollSlider(-1)">&#10094;</div>
         <div class="nav-arrow arrow-right" onclick="scrollSlider(1)">&#10095;</div>
 
         <div class="cards-slider-wrapper" id="projectSlider">
 
-
-
-
-
             <div class="project-card">
                 <div class="card-media">
-                    <img src="assets/recent-activities01.jpg" alt="Bhartiya Gramodhan Sanstha">
+                    <img src="https://picsum.photos/400/250?random=1" alt="Craft Demonstration">
                 </div>
-                <h3 class="card-title">Bhartiya Gramodhan Sanstha honored meritorious student Ishita Singh.</h3>
+                <h3 class="card-title">Project One</h3>
                 <div class="card-divider"></div>
-                <p class="card-description">The Bhartiya Gramodhan Sanstha (BGS) organized a special motivational dialogue session for the children of the artisans associated with the organization. The event was designed to provide students with comprehensive guidance on education, career pathing, time management, effective examination preparation, and strategies for achieving success. The session featured special guests, including Ms. Ishita Singh, a student at Nirmal Ashram Gyan Daan Academy (NGA) and the Rishikesh City Topper, alongside the school’s Principal, Dr. Sunita Sharma, who graced the occasion with their presence.</p>
+                <p class="card-description">Be a part of our organization and contribute your time, skills, and compassion towards a meaningful social cause.</p>
                 <div class="card-footer">
-                    <a href="Bhartiya-Gramodhan-Sanstha-honored-meritorious-student-Ishita-Singh..html" class="btn-more">More Detail</a>
-                    <span class="card-date">Date : May 28, 2026 </span>
+                    <a href="#" class="btn-more">More Detail</a>
+                    <span class="card-date">Date : 11/05/2026</span>
                 </div>
             </div>
 
-
-
             <div class="project-card">
                 <div class="card-media">
- 
-    <img src="assets/Lachhiwala-Nature-Park-Trip.jpg" alt="Bhartiya Gramodhan Sanstha">
-
+                    <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
-                <h3 class="card-title">The "Adventure Vibe" (Energetic & Bold) 🌿✨</h3>
+                <h3 class="card-title">Video Session</h3>
                 <div class="card-divider"></div>
-                <p class="card-description">From the classroom to the wild—our Khara Shrot after-school coaching stars had an unforgettable day trip to Lachhiwala! A perfect blend of learning, laughter, and nature’s serenity. We stepped out of our books and into the beauty of the outdoors to recharge and reconnect. Huge shoutout to these bright minds for making the day so special!</p>
+                <p class="card-description">Watch our progress report and see how volunteer action impacts live communities directly in the field.</p>
                 <div class="card-footer">
-                    <a href="https://www.youtube.com/watch?v=mtgVi_LRggs&t=1s" target="_blank" class="btn-more">More Detail</a>
-                    <span class="card-date">
- Backpacks On!</span>
+                    <a href="#" class="btn-more">More Detail</a>
+                    <span class="card-date">Date : 11/05/2026</span>
                 </div>
             </div>
 
-
- 
-
-
             <div class="project-card">
                 <div class="card-media">
- 
-    <img src="assets/A-Refreshing-Day-at-Lachhiwala.jpg" alt="Bhartiya Gramodhan Sanstha">
-
+                    <img src="https://picsum.photos/400/250?random=2" alt="Web Dashboard View">
                 </div>
-                <h3 class="card-title">Beyond the Classroom: A Refreshing Day at Lachhiwala</h3>
+                <h3 class="card-title">Project Three</h3>
                 <div class="card-divider"></div>
-                <p class="card-description">Education is not just about textbooks; it’s about experiences. The students of our after-school coaching program at Khara Shrot enjoyed a refreshing one-day educational excursion to Lachhiwala. This trip provided a wonderful opportunity for students to bond outside of their academic routines, fostering team spirit and personal growth amidst nature’s tranquility.</p>
+                <p class="card-description">Be a part of our organization and contribute your time, skills, and compassion towards a meaningful social cause.</p>
                 <div class="card-footer">
-                    <a href="https://www.youtube.com/watch?v=YQMrUhpa-g8" target="_blank" class="btn-more">More Detail</a>
-                    <span class="card-date">
- Lachhiwala for the day!</span>
+                    <a href="#" class="btn-more">More Detail</a>
+                    <span class="card-date">Date : 11/05/2026</span>
                 </div>
             </div>
 
+            <div class="project-card">
+                <div class="card-media">
+                    <img src="https://picsum.photos/400/250?random=3" alt="Community Gathering">
+                </div>
+                <h3 class="card-title">Project Four</h3>
+                <div class="card-divider"></div>
+                <p class="card-description">Be a part of our organization and contribute your time, skills, and compassion towards a meaningful social cause.</p>
+                <div class="card-footer">
+                    <a href="#" class="btn-more">More Detail</a>
+                    <span class="card-date">Date : 11/05/2026</span>
+                </div>
+            </div>
 
-
- 
+            <div class="project-card">
+                <div class="card-media">
+                    <img src="https://picsum.photos/400/250?random=4" alt="New Project Added">
+                </div>
+                <h3 class="card-title">Project Five</h3>
+                <div class="card-divider"></div>
+                <p class="card-description">This card safely slides dynamically onto any smartphone layout, keeping your site uniform and highly clean.</p>
+                <div class="card-footer">
+                    <a href="#" class="btn-more">More Detail</a>
+                    <span class="card-date">Date : 15/05/2026</span>
+                </div>
+            </div>
 
         </div>
     </section>
@@ -1875,7 +1875,7 @@ Several projects were organized to promote the diversification of our natural pr
                 <nav>
                   <ul class="list-unstyled">
 
-<li><a href="https://render.jotform.com/bhartiyagramotthan/exposure-visit-registration-form" target="_blank">
+<li><a href="https://form.jotform.com/dobhalservices/Exposure-Visit-Program" target="_blank">
               Exposure Visit
             </a> </li>
 
